@@ -1,0 +1,24 @@
+{
+  "name": "purlbugsampleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngridGdesigns/purlBugSampleProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngridGdesigns/purlBugSampleProject/issues"
+  },
+  "homepage": "https://github.com/IngridGdesigns/purlBugSampleProject#readme",
+  "dependencies": {
+    "@types/node": "^18.11.7",
+    "packageurl-js": "^1.0.0",
+    "typescript": "^4.8.4"
+  }
+}
